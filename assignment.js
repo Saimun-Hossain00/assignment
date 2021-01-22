@@ -1,8 +1,9 @@
-// kilometerToMeter
-// budgetCalculator 
-// hotelCost
-// megaFriend
-// https://github.com/Saimun-Hossain00/assignment/blob/main/assignment.js
+// https://github.com/Saimun-Hossain00/assignment
+kilometerToMeter
+budgetCalculator
+hotelCost
+megaFriend
+
 
 
 // kilometerToMeter
