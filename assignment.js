@@ -2,6 +2,7 @@
 // budgetCalculator 
 // hotelCost
 // megaFriend
+// https://github.com/Saimun-Hossain00/assignment/blob/main/assignment.js
 
 
 // kilometerToMeter
@@ -41,7 +42,7 @@ console.log(result);
 
 
 // megaFriend
-var name = ["salam", "kalam", "nalam", "saimunhossain"];
+var name = ["salam", "kalam", "saimunhossain", "nalam"];
 function megaFriend(name) {
     var megaLength = 0;
     var friendName = [];
