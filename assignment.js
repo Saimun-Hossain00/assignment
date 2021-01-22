@@ -3,23 +3,27 @@
 // hotelCost
 // megaFriend
 
-// function kilometerToMeter(kilo) {
-//     var kilometer = kilo / 1000;
-//     return kilometer;
-// }
-// var result = kilometerToMeter(23456);
-//  console.log(result);
+
+// kilometerToMeter
+function kilometerToMeter(kilo) {
+    var kilometer = kilo / 1000;
+    return kilometer;
+}
+var result = kilometerToMeter(23456);
+console.log(result);
 
 
-// function budgetCalculator(watch, mobile, laptop) {
-//     var wathcForMoney = watch * 4;
-//     var mobileForMoney = mobile * 6;
-//     var laptopForMoney = laptop * 8;
-//     var allShopForMoney = wathcForMoney + mobileForMoney + laptopForMoney;
-//     return allShopForMoney;
-// }
-// var result = budgetCalculator(50, 100, 500);
-// console.log(result);
+// budgetCalculator 
+function budgetCalculator(watch, mobile, laptop) {
+    var wathcForMoney = watch * 4;
+    var mobileForMoney = mobile * 6;
+    var laptopForMoney = laptop * 8;
+    var allShopForMoney = wathcForMoney + mobileForMoney + laptopForMoney;
+    return allShopForMoney;
+}
+var result = budgetCalculator(50, 100, 500);
+console.log(result);
+
 
 
 //  hotelCost
@@ -58,3 +62,5 @@ function megaFriend(name) {
         return friendName;
     }
 }
+var result = megaFriend(name);
+console.log(result);
